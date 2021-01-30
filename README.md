@@ -1,1 +1,0 @@
-# akbashev.github.io
