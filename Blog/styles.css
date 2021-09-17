@@ -97,8 +97,7 @@ a {
 
 .item-list h1 {
     margin-bottom: 15px;
-    font-size: 1.1em;
-    line-height: 1.5;
+    font-size: 1.3em;
 }
 
 .item-list p {
@@ -116,9 +115,10 @@ a {
     display: inline-block;
     background-color: #000;
     color: #ddd;
-    padding: 4px 6px;
-    border-radius: 5px;
-    margin-right: 5px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin-right: 4px;
+    font-size: 0.9em;
 }
 
 .tag-list a,
@@ -134,9 +134,10 @@ a {
     margin-bottom: 40px;
 }
 
-.content > ul {
+.content ul {
     font-size: 1.1em;
     line-height: 1.5em;
+    padding-inline-start: 20px;
 }
 
 .browse-all {
@@ -146,7 +147,6 @@ a {
 
 .all-tags li {
     font-size: 1.1em;
-    line-height: 1.5;
     margin-right: 10px;
     padding: 6px 10px;
 }
