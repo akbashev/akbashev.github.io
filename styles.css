@@ -97,12 +97,13 @@ a {
 
 .item-list h1 {
     margin-bottom: 15px;
-    font-size: 1.3em;
+    font-size: 1.1em;
+    line-height: 1.5;
 }
 
 .item-list p {
     margin-bottom: 0;
-    font-size: 1.05em;
+    font-size: 1.1em;
     line-height: 1.5;
 }
 
@@ -139,7 +140,8 @@ a {
 }
 
 .all-tags li {
-    font-size: 1.4em;
+    font-size: 1.1em;
+    line-height: 1.5;
     margin-right: 10px;
     padding: 6px 10px;
 }
@@ -233,4 +235,16 @@ pre code .dotAccess {
 
 pre code .preprocessing {
     color: #b68a00;
+}
+
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    font-size: 1.1em;
+    line-height: 1.5;
 }
