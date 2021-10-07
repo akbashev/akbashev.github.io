@@ -18,7 +18,7 @@ body {
 }
 
 .wrapper {
-    max-width: 1200px;
+    max-width: 900px;
     margin-left: auto;
     margin-right: auto;
     padding: 40px;
@@ -131,7 +131,6 @@ a {
 }
 
 .content {
-    max-width: 900px;
     margin-bottom: 40px;
 }
 
