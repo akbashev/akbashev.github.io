@@ -85,8 +85,8 @@ a {
 
 .item-list > li {
     display: block;
-    padding: 20px;
-    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: #fff;
     margin-bottom: 20px;
 }
